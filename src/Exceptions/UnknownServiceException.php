@@ -1,6 +1,6 @@
 <?php
 
-namespace PulkitJalan\Google\Exceptions;
+namespace Scottybo\Google\Exceptions;
 
 class UnknownServiceException extends \Exception
 {

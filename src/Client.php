@@ -1,9 +1,9 @@
 <?php
 
-namespace PulkitJalan\Google;
+namespace Scottybo\Google;
 
 use Google_Client;
-use PulkitJalan\Google\Exceptions\UnknownServiceException;
+use Scottybo\Google\Exceptions\UnknownServiceException;
 
 class Client
 {
